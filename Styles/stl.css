@@ -50,14 +50,6 @@ body {
     background-color: #0056b3;
 }
 
-/* Result display */
-.result {
-    font-size: 18px;
-    font-weight: bold;
-    color: #555;
-    margin-top: 20px;
-}
-
 /* Reset button */
 .reset-button {
     background-color: #28a745;
